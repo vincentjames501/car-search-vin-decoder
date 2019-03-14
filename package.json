@@ -1,0 +1,29 @@
+{
+  "name": "car-search-vin-decoder",
+  "version": "1.0.0",
+  "description": "Fetch listings from CarGurus and can do certain VIN Decodings",
+  "main": "example.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincentjames501/car-search-vin-decoder"
+  },
+  "keywords": [
+    "cargurus",
+    "cargurus api",
+    "cargurus fetch",
+    "vin",
+    "BMW",
+    "vin decoder api"
+  ],
+  "author": "Vince <vincentjames501@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentjames501/car-search-vin-decoder/issues"
+  },
+  "homepage": "https://github.com/vincentjames501/car-search-vin-decoder",
+  "dependencies": {
+    "form-data": "2.3.3",
+    "node-fetch": "2.3.0"
+  },
+  "devDependencies": {}
+}
